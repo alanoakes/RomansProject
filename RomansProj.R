@@ -83,5 +83,3 @@ compSin[!with(compSin,is.na(Section1)| is.na(Section2)),]
 CompSin<-compSin[order(-compSin$FreqText),]
 CompSin # compare lists
 
-# this is a new line of text
-
